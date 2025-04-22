@@ -3,7 +3,7 @@ Hi, :wave: I'm Izzy
 
 ## AT PPT:
 :necktie: Associate Software Engineer for Central Park\
-:calendar: About 3 yrs at PPT\
+:calendar: 3+ yrs at PPT\
 :round_pushpin: Cleveland, OH (desk: 1135)\
 :pager: Reach out to me on Teams or through email
 
@@ -27,3 +27,6 @@ Hi, :wave: I'm Izzy
 
 :video_game: Gamer
 > Major fan of Nintendo, especially The Legend of Zelda franchise
+
+## Git Stats:
+<a href="http://www.github.com/izzyGnagy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=izzyGnagy&stroke=14b8a6&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
